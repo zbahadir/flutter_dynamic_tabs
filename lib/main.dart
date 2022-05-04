@@ -29,7 +29,7 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   // ignore: non_constant_identifier_names
-  List list_name = ["Tab1", "Tab2", "Tab3", "Tab4", "New Tab"];
+  List list_name = ["Tab1", "Tab2", "Tab3", "New Tab"];
 
   @override
   Widget build(BuildContext context) {
